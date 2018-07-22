@@ -1,4 +1,18 @@
 // Code your solution in this file!
+
 const companyName = 'Scuber';
-let mostProfitableNeighborhood = "Chelsea";
-let companyCeo = 'Susan Smith';
+var companyName= "specialCompany";
+
+let mostProfitableNeighborhood ='Chelsea';
+var mostProfitableNeighborhood ='Upper West Side'; 
+
+var companyCeo ='Susan Smith';
+ var companyCeo ="Lauren Hart";
+ 
+ 
+ 
+ 
+ 
+ 
+
+
